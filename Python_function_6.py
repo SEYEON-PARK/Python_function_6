@@ -16,3 +16,5 @@ if (is_prime(a)): # 만약 is_prime(a)가 True라면
   print(a, "은 소수입니다.", sep="") # 소수라고 출력하기
 else: # 만약 is_prime(a)가 True가 아니라면
   print(a, "은 소수가 아닙니다.", sep="") # 소수가 아니라고 출력하기
+
+  
